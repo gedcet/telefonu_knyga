@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-  "start": "index.html"
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
   },
   "author": "gedcet",
   "license": "EPMC"

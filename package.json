@@ -1,0 +1,11 @@
+{
+  "name": "pele_su_uodega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+  "start": "index.html"
+  },
+  "author": "gedcet",
+  "license": "EPMC"
+}
